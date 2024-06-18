@@ -1,4 +1,4 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/keharper-storefront/Shared%20Documents/test-storefront/starter-content-commerce
+  /: https://drive.google.com/drive/u/0/folders/1qnapOhJ3FfklUJ1RpcyTY9YgR8y8-_BL
 folders:
   /products/: /products/default
