@@ -1,4 +1,4 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/keharper-storefront/Shared%20Documents/test-storefront?csf=1&web=1&e=1U0Y9S
+  /: https://adobe.sharepoint.com/:f:/r/sites/keharper-storefront/Shared%20Documents/test-storefront
 folders:
   /products/: /products/default
